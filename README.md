@@ -10,7 +10,7 @@ If you use this code, please cite our paper:
 @inproceedings{DICER-WWW-21,
   author    = {Bairan Fu and Wenming Zhang and Guangneng Hu and Xinyu Dai and 
                 Shujian Huang and Jiajun Chen},
-  title     = {Dual Side Deep Context-aware Modulation for SocialRecommendation},
+  title     = {Dual Side Deep Context-aware Modulation for Social Recommendation},
   booktitle = {Proceedings of the Web Conference 2021 (WWW '21), April 19--23, 2021, Ljubljana, Slovenia},
   year      = {2021}
 }
